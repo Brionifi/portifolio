@@ -26,7 +26,7 @@ body {
     flex-direction: column;
     gap: 150px;
     box-sizing: border-box;
-    background-color: var(--cor-primaria);
+    background-color:linear-gradient(90deg, #09090A 0%, #181719 47.57%, #36343B 126.85%, #39363D 126.85%);
     color: var(--cor-secundaria);
 }
 .cabecalho {
