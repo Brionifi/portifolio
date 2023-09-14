@@ -86,6 +86,7 @@ body {
 }
 .imagem__apresentacao {
     width: 50%;
+    border-radius: 5rem;
 }
 .apresentacao__link {
     display: flex;
