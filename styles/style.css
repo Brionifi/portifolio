@@ -85,7 +85,8 @@ body {
     line-height: 36px; 
 }
 .imagem__apresentacao {
-    width: 50%;
+    height:200px;
+    width: 126px;
     border-radius: 5rem;
 }
 .apresentacao__link {
